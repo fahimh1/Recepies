@@ -1,6 +1,7 @@
 # Recepies
 
-
+**Reqirments**
+Needs to have the folders that are in the repositories 
 
 It’s a program by which a user can read, create
 and delete recipes from a database. Before you start, you need to create a folder directory in
