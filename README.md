@@ -11,7 +11,7 @@ download and unzip the file that we've attached to this lecture and place it in 
 if you don't feel like building out that structure yourself. Once you have done that, here comes
 your task
 
-How it works
+**How it works**
 
 1. Option 1 will ask the user “Which category do you choose?” Meats, salads, desserts…
 whatever categories you want. And once the user chooses a category, it will ask them
