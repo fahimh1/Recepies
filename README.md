@@ -11,9 +11,9 @@ download and unzip the file that we've attached to this lecture and place it in 
 if you don't feel like building out that structure yourself. Once you have done that, here comes
 your task
 
-#Requiremnets 
+How it works
 
-Option 1 will ask the user “Which category do you choose?” Meats, salads, desserts…
+1. Option 1 will ask the user “Which category do you choose?” Meats, salads, desserts…
 whatever categories you want. And once the user chooses a category, it will ask them
 “Which recipe do you want to read?” And then it will show the content of that recipe.
 2. Option 2 is getting the user to create a new recipe in a specific category: it will also
